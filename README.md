@@ -1,4 +1,4 @@
-# TrackML Particle Tracking with Graph Neural Networks (GNN)
+# TrackML Particle Tracking with Graph Neural Networks (GNN) : 
 
 This project implements a Graph Neural Network (GNN) using **PyTorch Geometric** and **PyTorch Lightning** to solve the [TrackML Particle Identification Challenge](https://www.kaggle.com/c/trackml-particle-identification). The goal is to reconstruct particle tracks by classifying edges between hits in a 3D detector space.
 
