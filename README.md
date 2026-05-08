@@ -25,7 +25,7 @@ A memory-efficient GNN designed to fit within 15GB of VRAM:
 ---
 
 ##  Improving the Model
-To move beyond the current **5% F1-score** and fix the **`nan` loss**, the following strategies should be implemented:
+To move beyond the current **5% F1-score** and fix the **`nan` loss**, the following strategies should implemented
 
 ### 1. Fix Numerical Instability (`nan` loss)
 The `nan` loss occurs when gradients "explode" or values become too large for the floating-point range.
